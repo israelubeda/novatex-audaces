@@ -1,6 +1,6 @@
 # Creacion de productos ODOO utilizando API 
 
-_Creacion de productos utilizando el protocolo XMLRPC en odoo _
+_Creacion de productos utilizando el protocolo XMLRPC en Odoo_
 
 ## Comenzando 🚀
 
