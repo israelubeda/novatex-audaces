@@ -28,7 +28,7 @@ pip install xmlrpc
 pip install ssl
 
 ```
-_en el archivo [crearProducto.py](crearProducto.py) modificar las variables de url,db,username y password ,con los datos que seran entregados, en caso de no tenerlos se pueden obtener en el perfil de cada usario, creando los permisos para la **API**_
+_en el archivo [crearProducto.py](crearProducto.py) modificar las variables de url,db,username y password ,con los datos que seran entregados, en caso de no tenerlos se pueden obtener en el perfil de cada usuario, creando los permisos para la **API**_
 
 ```
 url = "https://tu-instancia-odoo.com"
@@ -38,7 +38,7 @@ password = "tu_contraseña"
 
 ```
 
-_Luego ejecutar script _
+_Luego ejecutar script_
 
 ```
 python3 crearProducto.py
